@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hatim Fasih</h1>
-<h3 align="center">Data Engineering Student | Web Developer | Tech Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Data Engineering | Tech Enthusiast</h3>
 
 ---
 
 🌍 Based in Marrakech, Morocco  
-🎓 Final year Data Engineering student at EST   
+🎓 Bachelor student in Computer Systems and Software Engineering 
+🎓 Previously completed a **DUT in Data Engineering*
 🛠 Working on freelance & personal tech projects  
 📈 Passionate about AI, data, clean design  
 🥇 Former sprinter | MMA fan |  GymBro 
