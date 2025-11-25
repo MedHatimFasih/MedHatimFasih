@@ -5,6 +5,7 @@
 
 🌍 Based in Marrakech, Morocco  
 🎓 Bachelor student in **Computer Systems and Software Engineering**
+
 🛠 Working on freelance & personal tech projects  
 📈 Passionate about AI, data, clean design  
 
