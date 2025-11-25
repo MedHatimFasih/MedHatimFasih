@@ -5,10 +5,10 @@
 
 🌍 Based in Marrakech, Morocco  
 🎓 Bachelor student in Computer Systems and Software Engineering 
-🎓 Previously completed a **DUT in Data Engineering*
+🎓 Previously completed a DUT in Data Engineering
 🛠 Working on freelance & personal tech projects  
 📈 Passionate about AI, data, clean design  
-🥇 Former sprinter | MMA fan |  GymBro 
+
 
 
 
